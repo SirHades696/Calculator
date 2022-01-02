@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="numbers">
+    <file>icons/point.png</file>
+    <file>icons/0.png</file>
+    <file>icons/1.png</file>
+    <file>icons/2.png</file>
+    <file>icons/3.png</file>
+    <file>icons/4.png</file>
+    <file>icons/5.png</file>
+    <file>icons/6.png</file>
+    <file>icons/7.png</file>
+    <file>icons/8.png</file>
+    <file>icons/9.png</file>
+  </qresource>
+  <qresource prefix="signs">
+    <file>icons/(.png</file>
+    <file>icons/).png</file>
+    <file>icons/clear.png</file>
+    <file>icons/del.png</file>
+    <file>icons/close.png</file>
+    <file>icons/division.png</file>
+    <file>icons/equal.png</file>
+    <file>icons/minus.png</file>
+    <file>icons/plus.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>icons/logo.png</file>
+  </qresource>
+</RCC>
