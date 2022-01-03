@@ -112,4 +112,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.qt_for_python/
+.qt_for_python/*
